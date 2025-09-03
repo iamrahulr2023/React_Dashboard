@@ -10,7 +10,6 @@ import {
   MessageSquare,
   Phone,
   Upload,
-  Plus,
   BarChart,
   ArrowRight,
   TrendingDown,
@@ -214,7 +213,7 @@ const Dashboard = () => {
 
             <div className="quick_box">
               <div className="quick-action-icon campaign">
-                <Plus />
+               <Users  />
               </div>
               <p>Create Campaign</p>
             </div>

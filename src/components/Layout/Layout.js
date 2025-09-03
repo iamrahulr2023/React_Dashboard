@@ -15,7 +15,7 @@ import '../Dashboard/Dashboard.css';
 import { Outlet } from 'react-router-dom';
 const Layout = () => {
   return (
-    <div>
+    <div  className='slidenav_con'>
 
       <aside className="sidebar">
         <div className="sidebar-header">
